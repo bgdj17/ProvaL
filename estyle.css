@@ -1,0 +1,30 @@
+
+body{
+	background-color: cadetblue;
+	text-align: center;
+}
+.main-section {
+	background-color: white;
+	border-radius: 30px;
+	border: 5px solid gray;
+	text-align: center;
+	width: 35%;
+	display: inline-block;
+	height: 200px;
+	padding-top: 2%;
+	float:left;
+	margin-top: 5%;
+	
+}
+main{
+	position: relative;
+	margin-left: 21%;
+	
+	
+}
+#certo{
+	color:#00c100
+}
+#errado{
+	color: red;
+}
